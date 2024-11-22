@@ -4,7 +4,7 @@
 <p align="center">Hi, I'm Iara! I'm a passionate web developer with a background in Data Analysis, giving me a keen eye for data-driven solutions. I specialize in React and Node.js and love exploring technologies to build impactful projects. Having recently transitioned into web development, I'm continuously learning and working on side projects to hone my skills and solve real-world problems. Always excited to connect, collaborate, and grow! 🚀</p>
 </br>
 <p align="center">
-  <a href="https://iaraetchart.com"><img height=35 src="https://i.imgur.com/KzlOlnw.png"></a> <a href="https://www.linkedin.com/in/iara-etchart/"><img height=35 src="https://i.imgur.com/qf2DRie.png"></a>
+  <a href="https://iaraetchart.com"><img height=30 src="https://i.imgur.com/KzlOlnw.png"></a> <a href="https://www.linkedin.com/in/iara-etchart/"><img height=30 src="https://i.imgur.com/qf2DRie.png"></a>
 </p>
 <h2 align="center">Technology Stack</h2>
 <p align="center">
