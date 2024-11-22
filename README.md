@@ -13,9 +13,6 @@
 </br>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=iaraetchart&show_icons=true&theme=material-palenight"><img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=iaraetchart&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
-</p>
-<p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaraetchart&theme=material-palenight&layout=compact">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=iaraetchart&show_icons=true&theme=material-palenight"><img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=iaraetchart&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaraetchart&theme=material-palenight&layout=compact">
 </p>
 
