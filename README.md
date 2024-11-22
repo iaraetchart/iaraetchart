@@ -1,7 +1,7 @@
-[![MasterHead](https://i.imgur.com/p2qqPgG.png)](https://github.com/iaraetchart)
+[![MasterHead](https://i.imgur.com/boDX84j.png)](https://github.com/iaraetchart)
 </br>
 </br>
-<p align="center">Hi, I'm Iara! I'm a passionate web developer with a background in Data Analysis, giving me a keen eye for data-driven solutions. I specialize in React and Node.js and love exploring technologies to build impactful projects. Having recently transitioned into web development, I'm continuously learning and working on side projects to hone my skills and solve real-world problems. Always excited to connect, collaborate, and grow! 🚀</p>
+<p align="center">I'm a passionate web developer with a background in Data Analysis, giving me a keen eye for data-driven solutions. I specialize in React and Node.js and love exploring technologies to build impactful projects. Having recently transitioned into web development, I'm continuously learning and working on side projects to hone my skills and solve real-world problems. Always excited to connect, collaborate, and grow! 🚀</p>
 </br>
 <p align="center">
   <a href="https://iaraetchart.com"><img height=30 src="https://i.imgur.com/KzlOlnw.png"></a> <a href="https://www.linkedin.com/in/iara-etchart/"><img height=30 src="https://i.imgur.com/qf2DRie.png"></a>
@@ -13,6 +13,6 @@
 </br>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=iaraetchart&show_icons=true&theme=material-palenight"><img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=iaraetchart&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaraetchart&theme=material-palenight&layout=compact">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=iaraetchart&show_icons=true&theme=material-palenight"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaraetchart&theme=material-palenight&layout=compact"><img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=iaraetchart&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
