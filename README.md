@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/boDX84j.png)](https://github.com/iaraetchart)
 </br>
 </br>
-<p align="center">I started my career in IT as a Data Analyst for over two years, building a solid foundation in organisation and process automation. For the past year I've been a Junior Full Stack Developer, working on projects that bring frontend and backend together with modern stacks like React, Next.js, Node.js and TypeScript, plus relational and non-relational databases. I'm driven by enthusiasm, commitment and continuous learning, always aiming to add value to the teams I collaborate with. 🚀</p>
+<p align="center">I started my career in IT as a Data Analyst for over two years, building a solid foundation in organisation and process automation. For the past year I've been a Junior Full Stack Developer, working on projects that bring frontend and backend together with modern stacks like React, Next.js, Node.js and TypeScript, plus relational and non-relational databases. I'm driven by enthusiasm, commitment and continuous learning, always aiming to add value to the teams I collaborate with.</p>
 </br>
 <p align="center">
   <a href="https://iaraetchart.com"><img height=30 src="https://i.imgur.com/KzlOlnw.png"></a> <a href="https://www.linkedin.com/in/iara-etchart/"><img height=30 src="https://i.imgur.com/qf2DRie.png"></a>
@@ -13,6 +13,6 @@
 </br>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=iaraetchart&show_icons=true&theme=material-palenight"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaraetchart&theme=material-palenight&layout=compact"><img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=iaraetchart&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
+ <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=iaraetchart&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
