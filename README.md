@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/boDX84j.png)](https://github.com/iaraetchart)
 </br>
 </br>
-<p align="center">I'm a passionate web developer with a background in Data Analysis, giving me a keen eye for data-driven solutions. I specialize in React and Node.js and love exploring technologies to build impactful projects. Having recently transitioned into web development, I'm continuously learning and working on side projects to hone my skills and solve real-world problems. Always excited to connect, collaborate, and grow! 🚀</p>
+<p align="center">I started my career in IT as a Data Analyst for over two years, building a solid foundation in organisation and process automation. For the past year I've been a Junior Full Stack Developer, working on projects that bring frontend and backend together with modern stacks like React, Next.js, Node.js and TypeScript, plus relational and non-relational databases. I'm driven by enthusiasm, commitment and continuous learning, always aiming to add value to the teams I collaborate with. 🚀</p>
 </br>
 <p align="center">
   <a href="https://iaraetchart.com"><img height=30 src="https://i.imgur.com/KzlOlnw.png"></a> <a href="https://www.linkedin.com/in/iara-etchart/"><img height=30 src="https://i.imgur.com/qf2DRie.png"></a>
